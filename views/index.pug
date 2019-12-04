@@ -1,0 +1,16 @@
+doctype html
+html
+ head
+   title #{title}
+   meta(name="viewport" content="width=device-width, initial-scale=1")
+ body
+   header
+         h1 #{title}
+   article
+     each project in projects
+       div
+         img( src=`/imm/${project.Copertina}`)
+         h2
+           | #{project.Number} #{project.Name}
+         a(href=`/lego?id=${project.Number}`)
+           | View more

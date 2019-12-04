@@ -1,0 +1,38 @@
+{
+ "modelli": [
+   {
+        "Number": "LEGO 6212" ,
+        "Theme": " Star Wars Classic", 
+        "Name": "X-wing Fighter",
+        "Year": " Year: 2006",
+        "Copertina":"/project1/copertina.jpg",
+        "Img1":"/project1/istruzione1.jpg",
+        "Img2":"/project1/istruzione2.jpg",
+        "Img3":"/project1/istruzione3.jpg"
+
+
+   },
+
+   {
+     "Number": "LEGO 3052" ,
+        "Theme": "Ninja", 
+        "Name": "Ninja Fire Tortress",
+        "Year":"1999",
+        "Copertina":"/project2/copertina.jpg",
+        "Img1":"/project2/istruzione1.jpg",
+        "Img2":"/project2/istruzione2.jpg",
+        "Img3":"/project2/istruzione3.jpg"
+   },
+
+   {
+       "Number": "LEGO 3828" ,
+        "Theme": "Avatar: The Last Airbender", 
+        "Name": "Air Temple",
+        "Year":"2006",
+        "Copertina":"/project3/copertina.jpg",
+        "Img1":"/project3/istruzione1.jpg",
+        "Img2":"/project3/istruzione2.jpg",
+        "Img3":"/project3/istruzione3.jpg"
+   }
+ ]
+}
